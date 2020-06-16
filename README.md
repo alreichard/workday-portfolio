@@ -10,7 +10,7 @@ This project was a helped improve my knowledge on how to connect HTML and java s
 - resets planner daily
 
 # installation 
-
+https://alreichard.github.io/workday-portfolio/.
 
 # usage
 

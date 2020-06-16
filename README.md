@@ -18,4 +18,4 @@ This project was a helped improve my knowledge on how to connect HTML and java s
 
 - press blue save button
 
-![](/dayplanner.png)
+![](dayplanner.png)

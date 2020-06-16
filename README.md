@@ -17,3 +17,5 @@ This project was a helped improve my knowledge on how to connect HTML and java s
 - type in boxes that are either red, green, or grey
 
 - press blue save button
+
+![](/dayplanner.png)
